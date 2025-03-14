@@ -1,4 +1,4 @@
-# package_name
+# python-processing
 
 Description. 
 The package python-processing is used to:
@@ -16,8 +16,8 @@ pip install python-processing
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from python-processing.module1 import hello_world
+hello_world.hello_world()
 ```
 
 ## Author
