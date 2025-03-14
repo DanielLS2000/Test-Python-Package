@@ -1,0 +1,11 @@
+README.md
+setup.py
+python-processing/__init__.py
+python-processing/module1/__init__.py
+python-processing/module1/hello_world.py
+python-processing/module2/__init__.py
+python-processing/module2/bye_world.py
+python_processing.egg-info/PKG-INFO
+python_processing.egg-info/SOURCES.txt
+python_processing.egg-info/dependency_links.txt
+python_processing.egg-info/top_level.txt
